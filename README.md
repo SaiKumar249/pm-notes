@@ -13,4 +13,7 @@
     1. Individuals and interactions over processes and tools
     1. Working software over comprehensive documentation
     1. Customer collaboration over contract negotiation
-    1. Responding to change over following a plan”
+    1. Responding to change over following a plan
+
+ 
+[Click here for more info](https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html)
